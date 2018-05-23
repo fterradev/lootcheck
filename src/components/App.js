@@ -11,7 +11,11 @@ const App = () => (
     <Loot />
     <div>
       Powered by{' '}
-      <a target="_blank" href="https://www.coindesk.com/price">
+      <a
+        target="_blank"
+        href="https://www.coindesk.com/price"
+        rel="noopener noreferrer"
+      >
         Coindesk
       </a>
     </div>
